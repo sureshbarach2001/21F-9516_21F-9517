@@ -14,4 +14,11 @@ public class Calculator {
 		int result = a - b;
 		return result;
 	}
+	
+public int multiply() {
+		
+		int a = 13, b = 2;
+		int result = a * b;
+		return result;
+	}
 }
