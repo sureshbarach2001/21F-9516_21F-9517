@@ -21,4 +21,10 @@ public int multiply() {
 		int result = a * b;
 		return result;
 	}
+public int divide() {	
+	
+		int a = 12, b = 2;
+		int result = a / b;
+		return result;
+	}
 }
